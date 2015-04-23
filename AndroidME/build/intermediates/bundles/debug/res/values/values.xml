@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Dennis/AndroidStudioProjects/AndroidME/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="AndroidME" parent="android:Theme.NoTitleBar"/>
+    <style name="AndroidME.Light" parent="android:Theme.Light.NoTitleBar"/>
+    <style name="AndroidME.Light.DarkDialog" parent="AndroidME.Light"/>
+    <style name="Dialog" parent="android:Theme.Dialog"/>
+    <style name="Dialog.Light" parent="android:Theme.Dialog"/>
+    <style name="NoActionBar" parent="android:Theme.NoTitleBar"/>
+    <style name="NoActionBar.Light" parent="android:Theme.Light.NoTitleBar"/>
+    <style name="NoActionBar.Light.DarkDialog" parent="NoActionBar.Light"/>
+    <style name="Theme" parent="android:Theme"/>
+    <style name="Theme.Light" parent="android:Theme.Light"/>
+    <style name="Theme.Light.DarkDialog" parent="Theme.Light"/>
+</resources>

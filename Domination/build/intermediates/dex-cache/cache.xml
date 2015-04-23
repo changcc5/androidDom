@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="984e89b06457578508dd9b48698d6896b03b31ca">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\achartengine-1.0.0-f6b88bfc045c905774005df19d8bd4f22ce4c190.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.2.65\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="23023656ba91dc12e963cf7d5682db5d2aba6262">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\classes-dd51ce5a77a620d57565e6a73bdf6a8e6ff211cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3fe75433da602500cc71fcc1c46e5550291dd45d">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\support-v4-13.0.0-45e477df07f91b58bd5d8f984432a11476ddfc82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\LobbyCore.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3773ac44563f8133cc378172b8f5176e547b3c86">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\LobbyCore-2aaa91d51a6ec5b1a61ad34f11dd0ef67ebecb82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\exploded-aar\Domination\BaseGameUtils\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9a509f7ae5533a7be33aac204d28bf162a45fda4">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\classes-ecc520ac6d97c322a204c7eede12e812b9678fc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\GrasshopperAndroid.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1fb0823c106807ed2ebe74cde7a7431a6e6eb4ab">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\GrasshopperAndroid-22c9ec1a171179bc9bba431d3f66decc21c89e0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\httpmime-4.1.2-0efa3dbccf74a5cd35f94ea7d8b30ee618c45664.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\exploded-aar\Domination\AndroidME\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f7c420cefb9c1fd9d6d95246a91661750e364aea">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\classes-2ac5e0bedd41c13a8b85f8e4eb5c2388b6e68f00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\httpcore-4.1.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="39e30fb2ddfcf32b9dd663039ca6e847b698aa6f">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\httpcore-4.1.2-e38f5be93a64ac4160bda668c5f4e02424bb1e57.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\gcm.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\gcm-bd0582c63ca61060292bf2c7706f8d8387b131eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dennis\AndroidStudioProjects\Domination\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="C:\Users\Dennis\AndroidStudioProjects\Domination\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.4.1-ea3b03317ea9c5aa774b426482fb30049f9ad1f0.jar" />
+    </item>
+
+</items>

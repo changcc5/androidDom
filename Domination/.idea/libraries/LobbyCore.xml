@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LobbyCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/LobbyCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

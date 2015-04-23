@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\res"><file path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\res\values\themes.xml" qualifiers=""><style name="NoActionBar.Light.DarkDialog" parent="NoActionBar.Light"/><style name="Theme.Light" parent="android:Theme.Light"/><style name="Theme.Light.DarkDialog" parent="Theme.Light"/><style name="AndroidME" parent="android:Theme.NoTitleBar"/><style name="AndroidME.Light" parent="android:Theme.Light.NoTitleBar"/><style name="Dialog" parent="android:Theme.Dialog"/><style name="Dialog.Light" parent="android:Theme.Dialog"/><style name="NoActionBar" parent="android:Theme.NoTitleBar"/><style name="NoActionBar.Light" parent="android:Theme.Light.NoTitleBar"/><style name="AndroidME.Light.DarkDialog" parent="AndroidME.Light"/><style name="Theme" parent="android:Theme"/></file><file path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\res\values-v11\themes.xml" qualifiers="v11"><style name="AndroidME" parent="android:Theme.NoTitleBar">
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style><style name="AndroidME.Light.DarkDialog" parent="AndroidME.Light">
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style><style name="Theme.Holo.Light.Dialog.Alert" parent="Dialog.Light">
+    <item name="android:windowBackground">@android:color/transparent</item>
+ </style><style name="NoActionBar.Light.DarkDialog" parent="NoActionBar.Light">
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style><style name="NoActionBar.Light" parent="android:Theme.Holo.Light">
+     <item name="android:windowActionBar">false</item>
+     <item name="android:windowNoTitle">true</item>
+ </style><style name="AndroidME.Light" parent="android:Theme.Light.NoTitleBar">
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Light.Dialog.Alert</item>
+ </style><style name="Dialog" parent="android:Theme.Holo.Dialog"/><style name="Theme.Holo.Dialog.Alert" parent="Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+ </style><style name="Theme.Light" parent="android:Theme.Holo.Light"/><style name="Dialog.Light" parent="android:Theme.Holo.Light.Dialog"/><style name="Theme" parent="android:Theme.Holo"/><style name="Theme.Light.DarkDialog" parent="Theme.Light">
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style><style name="NoActionBar" parent="android:Theme.Holo.NoActionBar"/></file><file path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\res\values-v14\themes.xml" qualifiers="v14"><style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="Dialog.Light">
+    <item name="android:windowBackground">@android:color/transparent</item>
+ </style><style name="NoActionBar.Light.DarkDialog" parent="NoActionBar.Light">
+     <item name="android:alertDialogTheme">@style/Theme.DeviceDefault.Dialog.Alert</item>
+ </style><style name="NoActionBar" parent="android:Theme.DeviceDefault.NoActionBar"/><style name="AndroidME.Light.DarkDialog" parent="AndroidME.Light">
+     <item name="android:alertDialogTheme">@style/Theme.DeviceDefault.Dialog.Alert</item>
+ </style><style name="NoActionBar.Light" parent="android:Theme.DeviceDefault.Light.NoActionBar"/><style name="Dialog" parent="android:Theme.DeviceDefault.Dialog"/><style name="Theme.Light" parent="android:Theme.DeviceDefault.Light"/><style name="Dialog.Light" parent="android:Theme.DeviceDefault.Light.Dialog"/><style name="AndroidME" parent="android:Theme.NoTitleBar">
+     <item name="android:alertDialogTheme">@style/Theme.DeviceDefault.Dialog.Alert</item>
+ </style><style name="Theme" parent="android:Theme.DeviceDefault"/><style name="AndroidME.Light" parent="android:Theme.Light.NoTitleBar">
+     <item name="android:alertDialogTheme">@style/Theme.DeviceDefault.Light.Dialog.Alert</item>
+ </style><style name="Theme.Light.DarkDialog" parent="Theme.Light">
+     <item name="android:alertDialogTheme">@style/Theme.DeviceDefault.Dialog.Alert</item>
+ </style><style name="Theme.DeviceDefault.Dialog.Alert" parent="Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+ </style></file><file path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\res\values-v21\themes.xml" qualifiers="v21"><style name="NoActionBar.Light.DarkDialog" parent="NoActionBar.Light">
+     <item name="android:alertDialogTheme">@style/Dialog</item>
+ </style><style name="NoActionBar" parent="android:Theme.DeviceDefault.NoActionBar"/><style name="Dialog" parent="android:Theme.DeviceDefault.Dialog"/><style name="AndroidME.Light.DarkDialog" parent="AndroidME.Light">
+     <item name="android:alertDialogTheme">@style/Dialog</item>
+ </style><style name="AndroidME.Light" parent="android:Theme.Light.NoTitleBar">
+     <item name="android:alertDialogTheme">@style/Dialog.Light</item>
+ </style><style name="AndroidME" parent="android:Theme.NoTitleBar">
+     <item name="android:alertDialogTheme">@style/Dialog</item>
+ </style><style name="Theme.Light" parent="android:Theme.DeviceDefault.Light"/><style name="Theme.Light.DarkDialog" parent="Theme.Light">
+     <item name="android:alertDialogTheme">@style/Dialog</item>
+ </style><style name="NoActionBar.Light" parent="android:Theme.DeviceDefault.Light.NoActionBar"/><style name="Theme" parent="android:Theme.DeviceDefault"/><style name="Dialog.Light" parent="android:Theme.DeviceDefault.Light.Dialog"/></file></source><source path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\build\generated\res\rs\release"/><source path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="C:\Users\Dennis\AndroidStudioProjects\AndroidME\src\release\res"/></dataSet><mergedItems/></merger>

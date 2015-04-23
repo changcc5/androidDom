@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <style name="Dialog" parent="android:Theme.Holo.Dialog" />
+ <style name="Dialog.Light" parent="android:Theme.Holo.Light.Dialog" />
+ <!-- really have no idea why this is needed, but i get 2 sets of dialog borders otherwise -->
+ <style name="Theme.Holo.Dialog.Alert" parent="Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+ </style>
+ <style name="Theme.Holo.Light.Dialog.Alert" parent="Dialog.Light">
+    <item name="android:windowBackground">@android:color/transparent</item>
+ </style>
+
+ <style name="Theme" parent="android:Theme.Holo" />
+ <style name="Theme.Light" parent="android:Theme.Holo.Light" />
+ <style name="Theme.Light.DarkDialog" parent="Theme.Light" >
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style>
+
+ <style name="NoActionBar" parent="android:Theme.Holo.NoActionBar" />
+ 
+ <!-- even though Theme.Holo.Light.NoActionBar exists, its hidden untill API-13 -->
+ <style name="NoActionBar.Light" parent="android:Theme.Holo.Light" >
+     <item name="android:windowActionBar">false</item>
+     <item name="android:windowNoTitle">true</item>
+ </style>
+ <style name="NoActionBar.Light.DarkDialog" parent="NoActionBar.Light" >
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style>
+
+ <style name="AndroidME" parent="android:Theme.NoTitleBar" >
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style>
+ <style name="AndroidME.Light" parent="android:Theme.Light.NoTitleBar" >
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Light.Dialog.Alert</item>
+ </style>
+ <style name="AndroidME.Light.DarkDialog" parent="AndroidME.Light" >
+     <item name="android:alertDialogTheme">@style/Theme.Holo.Dialog.Alert</item>
+ </style>
+</resources>

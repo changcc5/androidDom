@@ -1,0 +1,34 @@
+TODO:
+
+fix: when a window has only 1 focusable component and u move up, it loses focus then gains it again
+fix: rotate, windows need to be placed better after rotate
+fix: when clicking on a button, but when you actually need to scroll, it should send a event to the button to say the click was cancelled
+fix: menu smudge on me4se mode when opeing a menu
+fix: menu getting stuck in loop when u open and close it really quickly
+fix: when scrolling with the scrollbars, when the curser is dragged from the track or arrows, it should stop scrolling
+
+THEME: menu bars not skinned in any synth theme (make a good theme for the demo app)
+
+make windows not drag outside of application area.
+make window resizing work with the mouse
+make sure softkey mapping for strange devices works, like *motorola*
+make strange sofkeys on *blackberry* work
+
+make TextField different models have different mapping for 0 *
+make TextField catch 2 letter button codes, and allow a choice of 2 letters (blackberry SureType)
+make TextField * button give option of symbols
+
+make TextField pencil key bring up option for different modes
+make TextField pencil key holding down allow the selection of text and copy and paste softkeys
+make TextField have an predictive text option
+make TextField support more then just english language for number keypads
+make TextField support right to left languages
+
+add Tree Component (and add thinlet loading support for it)
+add SplitPane component (and add thinlet loading support for it)
+
+
+ME4SE TODO:
+
+add key events for ctrl-C and ctrl-V and access to clipboard for text
+add Symbian service for acess to phone clipboard

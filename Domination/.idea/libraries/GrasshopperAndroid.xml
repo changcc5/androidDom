@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GrasshopperAndroid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/GrasshopperAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
